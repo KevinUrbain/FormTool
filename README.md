@@ -15,7 +15,7 @@ FormTool est un outil "Drop-in" ultra-léger pour les développeurs back-end. Il
 
 ## 📦 Installation
 
-Glissez simplement le fichier `QuickTester.php` à la racine de votre projet ou dans votre dossier de test. Aucune installation via Composer n'est requise.
+Glissez simplement le fichier `FormTool.php` à la racine de votre projet ou dans votre dossier de test. Aucune installation via Composer n'est requise.
 
 ## 🛠️ Utilisation
 
