@@ -23,7 +23,7 @@ Créez un fichier de test (ex: `test_form.php`), incluez la classe et déclarez 
 
 ```php
 <?php
-require_once 'QuickTester.php';
+require_once 'FormTool.php';
 
 // 1. Indiquez le script cible à tester
 $formulaire = new FormTool('traitement_crud.php');
