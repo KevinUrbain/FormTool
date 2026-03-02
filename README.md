@@ -39,3 +39,8 @@ $formulaire->addField('description_profil');
 $formulaire->render();
 ?>
 ```
+
+## Features à venir
+
+- Connexion à PDO (injection de dépendance)
+-
